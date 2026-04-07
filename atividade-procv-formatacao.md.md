@@ -1,6 +1,7 @@
 # 💻 Laboratório Prático: Automação de Estoque na "TechMinds"
 
 **Disciplina:** PTIC
+
 **Técnicas Abordadas:** `PROCV` (Busca de Dados em Matrizes) e Formatação Condicional (Front-End / Alertas Visuais).
 
 ## 🏢 O Cenário (Seu Desafio no Mercado de Trabalho)
