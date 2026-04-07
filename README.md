@@ -75,35 +75,6 @@ Você quer buscar a meta batida (Real) do mês de **Fev**.
 
 ---
 
-## 🔥 3. PROCX (A Evolução Moderna)
-
-Se você utiliza as versões mais recentes do Excel ou o Microsoft 365, o **PROCX** (`XLOOKUP`) é o novo padrão da indústria. Ele corrige todas as limitações estruturais do PROCV.
-
-### 📍 Vantagens sobre o PROCV
-✅ **Desacoplamento:** Não precisa contar número de colunas. Você seleciona a coluna de busca e a coluna de retorno separadamente.
-✅ **Bidirecional:** Pode buscar valores à esquerda ou à direita da sua chave principal.
-✅ **Tratamento de Erro Nativo:** Você já diz o que ele deve mostrar se não achar nada, sem precisar usar a função `SEERRO`.
-
-### 🧾 A Sintaxe Básica
-```excel
-=PROCX(valor_procurado; matriz_pesquisa; matriz_retorno; [se_não_encontrada])
-```
-
-### 💼 Exemplo Prático (Logística / Estoque)
-
-| Código (A) | Produto (B) | Estoque (C) |
-| :--- | :--- | :--- |
-| 201 | Cabo de Rede | 300 |
-| 202 | Fonte ATX | 150 |
-
-Você quer buscar o estoque do código **202**.
-```excel
-=PROCX(202; A2:A3; C2:C3; "Não Cadastrado")
-```
-👉 **Resultado:** `150`
-
----
-
 ## 🏆 Resumo e Comparação
 
 | Função | Eixo de Busca | Complexidade | Uso no Mercado |
