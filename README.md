@@ -1,7 +1,7 @@
 # 🔍 Funções de Busca no Excel (PROCV, PROCH e PROCX) — Guia Definitivo e Didático
 
 **Por: Professor Alessandro**
-*(Material de Apoio — Programação, Algoritmos e Lógica de Dados)*
+*(Material de Apoio — PTIC)*
 
 Se você quer trabalhar com dados de forma profissional, dominar as funções da família **PROC** (Procurar) é obrigatório. Elas são a espinha dorsal de relatórios no mercado de trabalho — de finanças e RH a logística e Business Intelligence (BI).
 
