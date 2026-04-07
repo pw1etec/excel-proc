@@ -1,9 +1,3 @@
-Com certeza! Para fechar essa explicação com chave de ouro no seu GitHub, nada melhor do que uma planilha prática focada no mundo corporativo. 
-
-Você pode copiar e colar este bloco logo abaixo do "Passo a Passo Prático" no seu material:
-
-***
-
 ## 📊 Planilha de Exemplo: Controle de Metas e Vendas
 
 Imagine que você é o analista responsável por acompanhar o desempenho da equipe comercial. Você tem a seguinte planilha (intervalo `A1:E6`):
